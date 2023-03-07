@@ -1,4 +1,3 @@
-```sql
 CREATE database dannys_diner;
 USE dannys_diner;
 CREATE TABLE sales (
@@ -162,4 +161,4 @@ JOIN menu AS m
 	ON s.product_id = m.product_id
 WHERE s.order_date < d.last_date
 GROUP BY d.customer_id, s.order_date, d.join_date, d.valid_date, d.last_date, m.product_name, m.price
-```
+
