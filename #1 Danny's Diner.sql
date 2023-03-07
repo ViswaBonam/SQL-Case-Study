@@ -1,4 +1,3 @@
-
 CREATE database dannys_diner;
 USE dannys_diner;
 CREATE TABLE sales (
