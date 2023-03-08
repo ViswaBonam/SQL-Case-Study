@@ -1,6 +1,5 @@
-# Case Study #2: Data Bank 💸
+# A. Customer Nodes Exploration
 
-## A. Customer Nodes Exploration
 - How many unique nodes are there on the Data Bank system?
 ```sql
 SELECT COUNT(DISTINCT(node_id)) AS nodes_count FROM customer_nodes;
