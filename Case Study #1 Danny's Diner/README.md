@@ -23,3 +23,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 - What is the total items and amount spent for each member before they became a member?
 - If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 - In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January? 
+
+## Source
+
+Thanks to [@DatawithDanny](https://www.datawithdanny.com/) for this amazing SQL challenge👏
