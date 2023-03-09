@@ -25,3 +25,10 @@ The Data Bank team have prepared a data model for this case study as well as a f
 - For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 - What is the closing balance for each customer at the end of the month?
 - What is the percentage of customers who increase their closing balance by more than 5%?
+
+## Solutions
+Please visit `A. Customer Nodes Exploration.md` and `B. Customer Transactions.md` for answers to the above questions.
+
+## Source
+
+Thanks to [@DatawithDanny](https://www.datawithdanny.com/) for this amazing SQL challenge👏
